@@ -1,5 +1,5 @@
 {
-    "name": "lightit/linkedin-share",
+    "name": "linkedin-laravel/linkedin-update",
     "description": "This package allows you to easily share content on Likedin, using the v2 API.",
     "keywords": ["linkedin", "linkedin share", "linkedin API v2"],
     "license": "MIT",
